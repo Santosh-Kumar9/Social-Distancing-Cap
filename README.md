@@ -1,0 +1,9 @@
+**Trig1 :-** D2
+**Echo1 :-** D3
+**Trig2 :-** D4
+**Echo2 :-** D5
+**Trig3 :-** D6
+**Echo3 :-** D7
+**Trig4 :-** D8
+**Echo4 :-** D9
+**Buzzer :-** D11
